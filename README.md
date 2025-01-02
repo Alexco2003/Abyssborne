@@ -22,6 +22,14 @@ Watch a gameplay demonstration of Abyssborne:
 Play Abyssborne now:  
 [![Download Abyssborne](https://img.shields.io/badge/Download-Abyssborne-blue?logo=download)](https://drive.google.com/drive/folders/1hOFzNEi8PWO3oH_PJrmcNG5_5calXUdo?usp=sharing)
 
+This is the **packaged version** of the game, making it as simple as possible to play:
+1. Download the `.zip` file from the link above.
+2. Extract the contents of the `.zip` file.
+3. Run the executable file: `Abyssborne.exe`.
+
+### **Platform**
+- Currently available for **Windows only**.
+- The game was developed and optimized for Windows, and other platforms are not yet supported.
 ---
 
 ## **Development Repository**
