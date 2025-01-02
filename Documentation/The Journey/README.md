@@ -59,10 +59,10 @@ With these inspirations and ideas in mind, I knew exactly what I wanted from my 
 
 ### Supporting Documents
 
-For more details and related documents, refer to the [The Starting Point Folder](./Documentation/The%20Starting%20Point/) in the repository. It contains:
+For more details and related documents, refer to the [The Starting Point Folder](../The%20Starting%20Point/) in the repository. It contains:
 
-1. **Document in Romanian (Raw):** [Initial Design Notes and Ideas](./Documentation/The%20Starting%20Point/code_name_abyss.docx)
-2. **Document in English (Translated):** [Initial Design Notes and Ideas](./Documentation/The%20Starting%20Point/code_name_abyss.ro.en.docx)
+1. **Document in Romanian (Raw):** [Initial Design Notes and Ideas](../The%20Starting%20Point/code_name_abyss.pdf)
+2. **Document in English (Translated):** [Initial Design Notes and Ideas](../The%20Starting%20Point/code_name_abyss.ro.en.pdf)
 
 With this foundation, I was ready to move forward. Let’s explore how these ideas shaped *Abyssborne* in the next chapter!
 
