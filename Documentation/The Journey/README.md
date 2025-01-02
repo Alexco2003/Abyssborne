@@ -49,6 +49,12 @@ Both are AAA games, but their **design philosophies** inspired me deeply. Let’
 - **Replayability:**
   - It has a **starting point** and an **end point**, but after reaching the end, the game’s core mechanics still offer infinite replayability.
 
+If you want to learn more about **God of War: Ragnarok - Valhalla**, here is an article made by the developers:
+
+[Valhalla Reinvented: Designing a Roguelite in God of War Ragnarok](https://sms.playstation.com/stories/valhalla-reinvented-designing-a-roguelite-in-god-of-war-ragnarok)
+
+
+
 ### Defining My Project Goals
 
 With these inspirations and ideas in mind, I knew exactly what I wanted from my project:
