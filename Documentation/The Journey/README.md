@@ -184,33 +184,61 @@ FOR LATER
 - **Dungeon Generation Demo:**
   A video showcasing dungeon generation, door spawning, and collectibles (decorative at this point).
   
-  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid9.mp4)
+  [Download Video](../Photos%20and%20Videos%20during%20Development/vid9.mp4)
+
+   **Watch Video on YouTube**
+
+   [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtube.com/shorts/hFiDRRW04Eo?feature=share)
+
+
 
 - **Dungeon Roaming and Features:**
   - **00:00–01:32:** Walkthrough of a generated dungeon (torches, elevator, stairs, and doors functional; collectibles decorative).
   - **01:33–End:** Dungeon generation, door placement, and collectible spawning.
   
-  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid1.mp4)
+  [Download Video](../Photos%20and%20Videos%20during%20Development/vid1.mp4)
+  
+   **Watch Video on YouTube**
+
+   [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtube.com/shorts/PNbszJzS5iw?feature=share)
+
+
+  
 
 - **Character Animations:**
   - Early build showing the main character model in the game with animations for jumping, falling, idle, walking, and running.
   - The character spawns while the map generates, an issue resolved in later versions.
   
-  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid2.mp4)
+  [Download Video](../Photos%20and%20Videos%20during%20Development/vid2.mp4)
+    
+   **Watch Video on YouTube**
+
+   [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtube.com/shorts/AnvmtdbGIW4?feature=share)
+
 
 - **Combat Testing:**
   - Shows the character's weapons integrated with animations and a minimal damage system tested on dummy skeletons.
   - **First Part:** Debugging line trace mechanics for weapon hits.
   - **Second Part:** Testing from a player’s perspective with health and death animations.
   
-  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid3.mp4)
+  [Download Video](../Photos%20and%20Videos%20during%20Development/vid3.mp4)
+    
+   **Watch Video on YouTube**
+
+   [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtu.be/Yfd6L-sCXS0)
+
 
 - **AI Behavior:**
   - **00:00–01:35:** AI skeleton roaming the map independently, navigating doors and dungeon spaces.
   - **01:36–End:** AI detecting and attacking the player in close range, with visible camera collision issues (later fixed).
   - Lightning VFX added to ranged attacks, and enemy/player death animations showcased.
   
-  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid4.mp4)
+  [Download Video](../Photos%20and%20Videos%20during%20Development/vid4.mp4)
+    
+   **Watch Video on YouTube**
+
+   [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtu.be/p511MgO0XBc)
+
 
 - **Enhanced Gameplay:**
   - **00:00:** Functional build with UI (health, mana, dash, stats, upgrades).
@@ -226,23 +254,45 @@ FOR LATER
   - **05:17:** Shift to first-person perspective, affecting gameplay and attack mechanics (360-degree sword attack and ranged barrages possible).
   - **Continuation in Part 2:** Day/night cycle and door lighting system for player navigation.
   
-  [Part 1](../Photos%20and%20Videos%20during%20Development/vid5.mp4) | [Part 2](../Photos%20and%20Videos%20during%20Development/vid5.1.mp4)
+  [Download Part 1](../Photos%20and%20Videos%20during%20Development/vid5.mp4) | [Download Part 2](../Photos%20and%20Videos%20during%20Development/vid5.1.mp4)
+    
+   **Watch Videos on YouTube**
+
+   **Part 1:** [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtu.be/vxYrwjIE_As)
+   
+   **Part 2:** [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtube.com/shorts/w_qFIUfisXI?feature=share)
+
 
 - **Boss Development:**
   Working on the boss, addressing spear alignment issues in Blender.
   
-  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid7.mp4)
+  [Download Video](../Photos%20and%20Videos%20during%20Development/vid7.mp4)
+    
+   **Watch Video on YouTube**
+
+   [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtube.com/shorts/1yh30_9B0Sk?feature=share)
+
 
 - **Main Menu Integration:**
   First look at the main menu and functional level loading during map generation.
   
-  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid8.mp4)
+  [Download Video](../Photos%20and%20Videos%20during%20Development/vid8.mp4)
+    
+   **Watch Video on YouTube**
+
+   [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtube.com/shorts/_ftIF4F9_pY?feature=share)
+
 
 - **Shop Testing:**
   - Fully functional shop system with audio and VFX.
   - Includes balanced pricing, showcasing the near-final project stages.
   
-  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid6.mp4)
+  [Download Video](../Photos%20and%20Videos%20during%20Development/vid6.mp4)
+    
+   **Watch Video on YouTube**
+
+   [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtube.com/shorts/F6qEg24Qw9s?feature=share)
+
 
 
 ---
