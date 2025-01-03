@@ -125,8 +125,127 @@ FOR LATER
 
 *Abyssborne* is a dark fantasy roguelite that thrusts players into shadowed, ever-changing dungeons filled with enemies, upgrades, and cryptic mysteries. As an Abyssborne vessel, reshaped by a higher being known as **The Weaver**, your purpose is shrouded in mystery. The game combines strategic combat, exploration, and a rich, hidden lore revealed through collectible letters.
 
----
 
+
+# **Development Photos and Videos**
+
+### Dungeon Design
+
+- **First Room:**
+  The first room for our dungeon, which is a square and has 3 exit arrows.
+  
+  ![First Room](../Photos%20and%20Videos%20during%20Development/room.jpg)
+
+- **Procedural Dungeons:**
+  Here are 2 photos of two completely different randomly generated dungeons. These are from early development, featuring only one level and no additional floors.
+  
+  ![Dungeon 1](../Photos%20and%20Videos%20during%20Development/dungeon.jpg)
+  ![Dungeon 2](../Photos%20and%20Videos%20during%20Development/dungeon2.jpg)
+
+### Chest Rooms
+
+- **Rooms with Chests:**
+  Here are two photos of rooms featuring chests that spawn.
+  
+  ![Dungeon with Chests 1](../Photos%20and%20Videos%20during%20Development/dungeonWChests.jpg)
+  ![Dungeon with Chests 2](../Photos%20and%20Videos%20during%20Development/dungeonWChests2.jpg)
+
+### Debugging and UI
+
+- **Error:**
+  Here is an error that came up during development. *(I wanted to throw the laptop out the window—just a joke!)*
+  
+  ![Error](../Photos%20and%20Videos%20during%20Development/error.jpg)
+
+- **Shop Menu:**
+  - Old Shop Menu:
+    
+    ![Old Shop 1](../Photos%20and%20Videos%20during%20Development/shopOld.jpg)
+    
+  - New Shop Menu (balanced prices for better accessibility):
+    
+    ![New Shop](../Photos%20and%20Videos%20during%20Development/newShop.jpg)
+    ![New Shop Prices](../Photos%20and%20Videos%20during%20Development/newShopPrices.jpg)
+
+- **Pause Menu:**
+  The pause menu displaying the stats of the current run.
+  
+  ![Pause Menu](../Photos%20and%20Videos%20during%20Development/pauseMenu.jpg)
+
+### Asset Adjustments
+
+- **Spear for Boss Enemy:**
+  This spear was imported from Sketchfab but had a misaligned bone. I fixed it in Blender successfully.
+  
+  ![Spear](../Photos%20and%20Videos%20during%20Development/spear.jpg)
+
+### Videos
+
+- **Dungeon Generation Demo:**
+  A video showcasing dungeon generation, door spawning, and collectibles (decorative at this point).
+  
+  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid9.mp4)
+
+- **Dungeon Roaming and Features:**
+  - **00:00–01:32:** Walkthrough of a generated dungeon (torches, elevator, stairs, and doors functional; collectibles decorative).
+  - **01:33–End:** Dungeon generation, door placement, and collectible spawning.
+  
+  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid1.mp4)
+
+- **Character Animations:**
+  - Early build showing the main character model in the game with animations for jumping, falling, idle, walking, and running.
+  - The character spawns while the map generates, an issue resolved in later versions.
+  
+  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid2.mp4)
+
+- **Combat Testing:**
+  - Shows the character's weapons integrated with animations and a minimal damage system tested on dummy skeletons.
+  - **First Part:** Debugging line trace mechanics for weapon hits.
+  - **Second Part:** Testing from a player’s perspective with health and death animations.
+  
+  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid3.mp4)
+
+- **AI Behavior:**
+  - **00:00–01:35:** AI skeleton roaming the map independently, navigating doors and dungeon spaces.
+  - **01:36–End:** AI detecting and attacking the player in close range, with visible camera collision issues (later fixed).
+  - Lightning VFX added to ranged attacks, and enemy/player death animations showcased.
+  
+  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid4.mp4)
+
+- **Enhanced Gameplay:**
+  - **00:00:** Functional build with UI (health, mana, dash, stats, upgrades).
+  - **00:25:** Dash ability showcased with cooldown in UI.
+  - **00:32:** Exit zone added but unfunctional.
+  - **00:55:** Boss room and spawner added (non-functional).
+  - **01:20:** Exit and boss spawner conditions implemented but with no practical effects yet.
+  - **01:23:** Mana and enemy health mechanics integrated.
+  - **01:54:** Boss spawner conditions met.
+  - **02:17:** Exit conditions still met after spawning the boss.
+  - **02:25:** Functional chest system with random upgrades displayed in the UI.
+  - **04:10:** Collision and random upgrade system working seamlessly.
+  - **05:17:** Shift to first-person perspective, affecting gameplay and attack mechanics (360-degree sword attack and ranged barrages possible).
+  - **Continuation in Part 2:** Day/night cycle and door lighting system for player navigation.
+  
+  [Part 1](../Photos%20and%20Videos%20during%20Development/vid5.mp4) | [Part 2](../Photos%20and%20Videos%20during%20Development/vid5.1.mp4)
+
+- **Boss Development:**
+  Working on the boss, addressing spear alignment issues in Blender.
+  
+  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid7.mp4)
+
+- **Main Menu Integration:**
+  First look at the main menu and functional level loading during map generation.
+  
+  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid8.mp4)
+
+- **Shop Testing:**
+  - Fully functional shop system with audio and VFX.
+  - Includes balanced pricing, showcasing the near-final project stages.
+  
+  [Watch Video](../Photos%20and%20Videos%20during%20Development/vid6.mp4)
+
+
+---
 # **Installation Guide**
 
 ### **For Players**
@@ -158,5 +277,8 @@ FOR LATER
    - Build the project and launch it within Unreal Engine to test or modify the game.
 
 ---
+
+
+
 
 
