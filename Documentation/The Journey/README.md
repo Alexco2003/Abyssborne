@@ -70,6 +70,11 @@ For more details and related documents, refer to the [The Starting Point Folder]
 1. **Document in Romanian (Raw):** [Initial Design Notes and Ideas](../The%20Starting%20Point/code_name_abyss.pdf)
 2. **Document in English (Translated):** [Initial Design Notes and Ideas](../The%20Starting%20Point/code_name_abyss.ro.en.pdf)
 
+You can also check the [Requirements Folder](../../Requirements/) in the repository. It contains the initial requirements for the university project:
+
+1. **Document in Romanian (Raw):** [Planification and Requirements](../../Requirements/Planificarea%20si%20cerintele%20proiectului.pdf)
+2. **Document in English (Translated):** [Planification and Requirements](../../Requirements/Planification%20and%20project%20requirements.pdf)
+
 With this foundation, I was ready to move forward. Let’s explore how these ideas shaped *Abyssborne* in the next chapter!
 
 # **The Actual Start**
