@@ -56,3 +56,7 @@ The full source code for **Abyssborne** is hosted on Azure DevOps. If you're int
    - Once the project is open in Unreal Engine, use the editor to build and run the game, or make modifications as needed.
 
 ---
+## Documentation
+
+For a detailed overview of the game development process, features, and insights, check out the [Abyssborne Documentation](Documentation/The%20Journey/README.md).
+
